@@ -25,6 +25,7 @@ Este projeto foi proposto pelo professor LUCIANO LOPES SALGADO da disciplina de 
 
 - Rode o script script.sql, para criar o banco e a tabela
 - Coloque as suas credencias de acesso ao banco de dados no arquivo database/index.php
+- Para testar no Insommia, faça a importação do arquivo Insomnia_2021-11-27
 
 ---
 
